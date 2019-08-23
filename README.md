@@ -6,19 +6,15 @@
 
 ### how to use 
 
-* * const dynamicheader = require('dynamicheader')* *
+` const dynamicheader = require('dynamicheader')`
 
 ### we have to method
 
-* * loaderheader.loadheader({
-    url:'header.html'
-});
- * *
+``` loaderheader.loadheader({ url:'header.html' });```
+ 
 
-* *  loaderheader.loadfooter({
-    url:'footer.html'
-})
- * *
+``` loaderheader.loadfooter({ url:'footer.html' })```
+  
 
  ## you can modify our css file as you want 
 
