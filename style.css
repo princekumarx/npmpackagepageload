@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+     
+
+}
+
+ .header ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    background: black;
+    padding: 20px;
+}
+
+.header li{
+margin: 0 10px;
+}
+.header li a {
+    text-decoration: none;
+    color: white;
+}
+ .header #left{
+    margin-left: auto;
+}
+
+
+
+
+.footer ul{
+list-style: none;
+display: flex;
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+align-items: center;
+background: black;
+padding: 20px;
+}
+
+.footer ul  li{
+margin: 0 10px;
+}
+.footer ul li a {
+text-decoration: none;
+color: rgb(83, 76, 76);
+}
+.footer #left{
+margin-left: auto;
+}
