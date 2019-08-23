@@ -1,6 +1,6 @@
- 
-script.js
- 
-
+ node_modules
+ script.js
+ bundle.js
+ *.json
 *.html
  
