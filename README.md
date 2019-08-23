@@ -2,13 +2,13 @@
 
 ## intallation 
 
-```npm i dynamicheader --save ```
+```npm i dynamicheaders --save ```
 
-### how to use 
+### how to use import this inside script.js
 
 ` const dynamicheader = require('dynamicheader')`
 
-### we have to method
+### we have to method use this in script.js
 
 ``` loaderheader.loadheader({ url:'header.html' });```
  

@@ -1,0 +1,19 @@
+{
+  "name": "dynamicheaders",
+  "version": "1.0.0",
+  "description": "this package enable you to dynamic load your header and footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekumarx/npmpackagepageload.git"
+  },
+  "author": "prince kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekumarx/npmpackagepageload/issues"
+  },
+  "homepage": "https://github.com/princekumarx/npmpackagepageload#readme"
+}
